@@ -1,0 +1,14 @@
+{
+  "name": "strategy-pattern",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.json",
+    "start": "node -e 'require(\"./dist/start/app\").main()'",
+    "end": "node -e 'require(\"./dist/end/app\").main()'"
+  },
+  "author": "Dexter",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
