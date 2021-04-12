@@ -30,8 +30,3 @@ class Projector {
 class TheaterLights {
 
 }
-
-class Screen {
-
-}
-
